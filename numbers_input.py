@@ -97,3 +97,9 @@ def smile_pattern() -> list[list[str]]:
         all_column_clues = ["2 1", "2 1", "1", "2 1", "2 1"]
         all_row_clues = ["2 2", "2 2", "", "1 1", "3"]
         return [all_row_clues, all_column_clues]
+
+def salt_and_pepper_pattern() -> list[list[str]]:
+        all_column_clues = ["3 6", "1 3 1 1", "5 1 1", "3 6", "", "3 6", "1 3 1", "5 1 2", "5 2", "3 6"]
+        all_row_clues = ["4 5", "1 2 1 3", "4 5", "2 3", "4 5", "1 1 1 1", "1 2 1 1 1", "2 1 1 1", "1 1 1 3", "4 5"]
+        return [all_row_clues, all_column_clues]
+
