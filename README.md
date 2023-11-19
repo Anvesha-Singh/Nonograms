@@ -16,3 +16,4 @@ Game Rules:
 
 Enjoy the Nonograms Game and have fun solving challenging puzzles!
 
+https://colab.research.google.com/drive/1sYpt1-tVRwFqmdTLY6c4w0i1KC0oRKMw
